@@ -103,7 +103,4 @@ This project helped develop real-world engineering competencies such as:
 - **Claw_ASSEMBLY.SLDASM** – Complete assembly of the claw including top and bottom segments and elastic mechanism.
 - **base assembly.SLDASM** – Full assembly of the base unit with hinge and support structures.
 
-## 🏁 Reference Video
 
-Watch the official project outline and explanation video (not a demo):  
-📹 [YouTube Project Video](https://www.youtube.com/watch?v=mE8JKfSn5WI)
